@@ -1,0 +1,8 @@
+SOUrcE cOdE rEprEsEnts thE pArt Of prOcEss thAt cOntAIns thE prOgrAmmIng
+lAngUAgE ItsElf. YOU mAy UsE A tExt EdItOr tO wrItE yOUr sOUrcE cOdE fIlE. A cOmpIlEr wIll bE UsEd
+tO prOdUcE A mAchInE rEprEsEntAtIOn Of yOUr sOUrcE cOdE. SUch 
+rEprEsEntAtIOn mAy shOw yOUr cOdE As hExAdEcImAl Or
+bInAry fOrmAts. ThE rEsUltIng hExAdEcImAl cOdE wIll cOntAIn cOmbInAtIOns Of nUmbErs sUch 1 3 5 8 2 4 6 9 
+12 21 13 31 14 41 15 51 16 61 17 71 18 81 19 91 100 Or 
+cOmbInAtIOns Of chArActErs And nUmbErs sUch As 1A3B4C0DEFA, fOr ExAmplE.
+The sum of the digits is: 151
